@@ -8,6 +8,8 @@
 // @grant        GM_xmlhttpRequest
 // @connect      fans-dub.amazon.com
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/alyanking0999-crypto/my-fclmidle-script/main/FCLM.idle.js
+// @downloadURL  https://raw.githubusercontent.com/alyanking0999-crypto/my-fclmidle-script/main/FCLM.idle.js
 // ==/UserScript==
 
 (function(){
